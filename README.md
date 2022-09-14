@@ -1,3 +1,1 @@
-# react-ts-3fvzog
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-3fvzog)
+Criando um programa com React que conta o número de vogais e consoantes de uma palavra.

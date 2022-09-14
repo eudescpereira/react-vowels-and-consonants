@@ -17,8 +17,8 @@ export default function App() {
   const handleChangeInputTexto = (evt) => {
     setTexto(evt.target.value);
   };
-  const regexVowels = /[aãáàâeèéêiíoôõóuú]/gi;
-  const regexConsonants = /[bcçdfghjklmnpqrstvwxsyz]/gi;
+  //const regexVowels = /[aãáàâeèéêiíoôõóuú]/gi;
+  //const regexConsonants = /[bcçdfghjklmnpqrstvwxsyz]/gi;
   return (
     <div className="App">
       <h2>Vowels and Consonants</h2>
